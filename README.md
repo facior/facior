@@ -8,4 +8,4 @@ I like learning and mastering things related to programming.<br>
 <br/><br/>
 
 ## Useful links 📄
-👷 Linked In: <a href="https://www.linkedin.com/in/lukaszkubieniec//">Here</a>
+👷 LinkedIn: <a href="https://www.linkedin.com/in/lukaszkubieniec//">Here</a>
