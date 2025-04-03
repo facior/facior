@@ -4,7 +4,7 @@ I'm a Python Dev looking for a job.<br>
 I like learning and mastering things related to programming.<br>
 
 ## My toolkit 🔨
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,selenium,github,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,selenium,github,linux,ubuntu,vscode,)](https://skillicons.dev)
 <br/><br/>
 
 ## Useful links 📄
